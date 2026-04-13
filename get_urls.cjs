@@ -1,0 +1,1 @@
+const fs=require("fs");const https=require("https");const files=fs.readdirSync("src/views").map(f=>"src/views/"+f).concat(["src/App.vue"]);const regex=/https:\/\/images\.unsplash\.com\/[^'\s\)]+/g;const urls=new Set();files.forEach(f=>{const c=fs.readFileSync(f,"utf-8");const m=c.match(regex);if(m)m.forEach(u=>urls.add(u));});console.log(Array.from(urls).join("\n"));
