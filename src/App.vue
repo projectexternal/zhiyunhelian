@@ -128,7 +128,7 @@ const openAuth = (type: string) => {
             <h4>联系我们</h4>
             <p>全国服务热线：010-63637350</p>
             <p>总部地址：北京市朝阳区</p>
-            <p>邮箱：contact@tianyucare.com</p>
+            <p>邮箱：wangtianyu@zyhldt.com</p>
           </div>
         </div>
         <div class="footer-bottom">

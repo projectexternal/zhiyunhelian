@@ -42,7 +42,7 @@ const submitForm = () => {
               <div class="info-icon">📧</div>
               <div>
                 <h4>官方邮箱</h4>
-                <p>contact@tianyucare.com</p>
+                <p>wangtianyu@zyhldt.com</p>
                 <span class="info-desc">我们将在1-2个工作日内回复</span>
               </div>
             </div>

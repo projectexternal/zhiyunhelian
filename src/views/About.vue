@@ -26,7 +26,7 @@ const values = [
         <div class="about-text">
           <h2 style="text-align: left; margin-bottom: 30px;">中国智慧养老领军企业</h2>
           <p style="font-size: 16px; color: var(--text-secondary); line-height: 1.8; margin-bottom: 20px;">
-            拾光养老成立于中国（上海）自由贸易试验区，定位为“中国智慧养老数字基建平台”。我们始终将“长者满意度永远排第一”作为企业宗旨。
+            拾光养老成立于北京，定位为“中国智慧养老数字基建平台”。我们始终将“长者满意度永远排第一”作为企业宗旨。
           </p>
           <p style="font-size: 16px; color: var(--text-secondary); line-height: 1.8; margin-bottom: 20px;">
             公司拥有行业领先的自研数字养老系统与全系列智能硬件，打造了涵盖“安全、健康、照护、陪伴”四大核心场景的生态闭环，为政府、社区、机构、保险等不同业态提供全面、一体化的智慧养老解决方案。
